@@ -12,6 +12,7 @@ function info(cadena) {
   }
   return resultado;
 }
+let oracion = prompt()
 
-alert(info("OBJETO VOLADOR NO IDENTIFICADO"));
-alert(info("en un lugar de la mancha..."));
+alert(info(oracion));
+
