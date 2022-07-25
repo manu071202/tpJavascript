@@ -1,7 +1,7 @@
 
 
 
-let nombredeCiudades =[ prompt("nombre de ciudades")]
+let nombredeCiudades =prompt("nombre de ciudades")
 
 
 
